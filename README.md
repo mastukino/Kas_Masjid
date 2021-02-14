@@ -17,5 +17,3 @@ Aplikasi kas masjid berbasis web yaitu merupakan sebuah sistem pembedaharaan kas
 5. Settings
 6. Users
 7. Logout
-
-https://1.bp.blogspot.com/-BsSBT_P4KHQ/Xvx1T07wmPI/AAAAAAAADQU/3YHWA2YWeZciDSk5kZPeZTmez0iY1rSAACLcBGAsYHQ/s640/Aplikasi%2BKas%2BMasjid%2BBerbasis%2BWeb%2BPhp%2BDatabase%2BMysql.JPG
