@@ -4,16 +4,16 @@ Aplikasi kas masjid berbasis web yaitu merupakan sebuah sistem pembedaharaan kas
 # Fitur Aplikasi Kas Masjid Berbasis Web
 1. Dashboard
 2. Kas Masjid:
-   a). Pemasukan Kas Masjid
-   b). Pengeluaran Kas Masjid
-   c). Rekap Kas Masjid
+   - Pemasukan Kas Masjid
+   - Pengeluaran Kas Masjid
+   - Rekap Kas Masjid
 3. Kas Sosial:
-   a). Pemasukan Kas Sosial
-   b). Pengeluaran Kas Sosial
-   c). Rekap Kas Sosial
+   - Pemasukan Kas Sosial
+   - Pengeluaran Kas Sosial
+   - Rekap Kas Sosial
 4. Laporan Kas:
-   a). Rekap Kas Masjid
-   b). Rekap Kas Sosial
+   - Rekap Kas Masjid
+   - Rekap Kas Sosial
 5. Settings
 6. Users
 7. Logout
