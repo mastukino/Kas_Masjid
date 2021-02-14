@@ -19,7 +19,7 @@ Aplikasi kas masjid berbasis web yaitu merupakan sebuah sistem pembedaharaan kas
 7. Logout
 
 #Dibuat Dengan:
-    - PHP
-    - Database MySQL
-    - CSS Bootstrap
-    - Template Admin Bootstrap
+- PHP
+- Database MySQL
+- CSS Bootstrap
+- Template Admin Bootstrap
